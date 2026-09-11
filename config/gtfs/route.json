@@ -5,5 +5,111 @@
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "stop_id_not_supported_configs": [
+        {
+            "original_stop_id": "AMAZON",
+            "stop_id_int": 900126000
+        },
+        {
+            "original_stop_id": "ARGYLE",
+            "stop_id_int": 900107000
+        },
+        {
+            "original_stop_id": "CATH_CANPOST",
+            "stop_id_int": 900303000
+        },
+        {
+            "original_stop_id": "ENT_PON_EB",
+            "stop_id_int": 900516050
+        },
+        {
+            "original_stop_id": "FAN",
+            "stop_id_int": 60114000
+        },
+        {
+            "original_stop_id": "FXC",
+            "stop_id_int": 62403000
+        },
+        {
+            "original_stop_id": "GAYLORD_MICH",
+            "stop_id_int": 900713000
+        },
+        {
+            "original_stop_id": "HAM_PUT",
+            "stop_id_int": 900816000
+        },
+        {
+            "original_stop_id": "HAM_PUT2",
+            "stop_id_int": 900816200
+        },
+        {
+            "original_stop_id": "ILD_LIB",
+            "stop_id_int": 900912000
+        },
+        {
+            "original_stop_id": "LCC",
+            "stop_id_int": 120303000
+        },
+        {
+            "original_stop_id": "MAIN",
+            "stop_id_int": 9013000
+        },
+        {
+            "original_stop_id": "MAS",
+            "stop_id_int": 130119000
+        },
+        {
+            "original_stop_id": "MED_ARV",
+            "stop_id_int": 901301000
+        },
+        {
+            "original_stop_id": "NEW_LUD",
+            "stop_id_int": 901412000
+        },
+        {
+            "original_stop_id": "OAK_BYR",
+            "stop_id_int": 901502000
+        },
+        {
+            "original_stop_id": "OAK_BYR2",
+            "stop_id_int": 901502200
+        },
+        {
+            "original_stop_id": "OX",
+            "stop_id_int": 1524000
+        },
+        {
+            "original_stop_id": "STTHOM_HUB",
+            "stop_id_int": 901908000
+        },
+        {
+            "original_stop_id": "VAL_HOME",
+            "stop_id_int": 902208000
+        },
+        {
+            "original_stop_id": "WHITE_OAKS_EB",
+            "stop_id_int": 902315050
+        },
+        {
+            "original_stop_id": "WHITE_OAKS_SB",
+            "stop_id_int": 902315190
+        },
+        {
+            "original_stop_id": "WIL_COM_EB",
+            "stop_id_int": 902303050
+        },
+        {
+            "original_stop_id": "WIL_PON_WB",
+            "stop_id_int": 902316230
+        },
+        {
+            "original_stop_id": "WOOD_FOX",
+            "stop_id_int": 902306000
+        },
+        {
+            "original_stop_id": "WTT",
+            "stop_id_int": 232020000
+        }
+    ],
     "stop_name_cleaners": []
 }
